@@ -9,3 +9,6 @@ Basic calculation of time components in included and addEvent listener function 
 Mainly Inbuilt function setInterval  and clearinnterval is used in the project
 If You have any doubts Plese contact which will be highly appreciated.
 
+
+https://madhavan112.github.io/Stop-watch/
+
